@@ -22,5 +22,5 @@
 
 ## Roles
 - ADMIN → Full access
-- ANALYST → Read + insights
+- ANALYST → records + dashboard
 - VIEWER → Only dashboard view
